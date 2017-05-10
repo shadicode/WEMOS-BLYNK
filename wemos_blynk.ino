@@ -46,8 +46,8 @@ WidgetRTC rtc;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Gate";
-char pass[] = "3007240778";
+char ssid[] = "xxxx";
+char pass[] = "xxxxxxxxxxx";
 
 const int sclPin = D1;
 const int sdaPin = D2;
