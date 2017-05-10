@@ -113,7 +113,6 @@ void setup()   {
   pixels.begin(); // This initializes the NeoPixel library.
 
   timer.setInterval(1000L, clockDisplay );
-  //Blynk.virtualWrite(V0, "http://31.10.153.6/texty.txt");
 }
 
 
